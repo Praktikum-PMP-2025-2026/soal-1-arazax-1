@@ -1,6 +1,11 @@
-//Nama     : Afdhal Razaq
-//NIM      : 13224004
-//Soa      : 01
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+ *   Modul               : 3
+ *   Hari dan Tanggal    : 29 April 2025
+ *   Nama (NIM)          : Afdhal Razaq (13224004)
+ *   Nama File           : soal1.c
+ *   Deskripsi           : Menyelesaikan pengurutan struct artefak yang mengikuti aturan alfabetis kategori naik, tahun naik, nilai turun, dan affabetis nama naik 
+ * 
+ */
 
 #include <stdio.h>
 #include <string.h>
